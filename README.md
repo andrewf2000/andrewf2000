@@ -4,4 +4,6 @@
 Предыдущий опыт работы дал мне основные soft skills, а также я постоянно работаю над развитием и совершенствованием hard skills по специальности тестировщика.
 Готов выполнить тестовое задание.
 
+Резюме Тестировщик ПО Федин Андрей https://docs.google.com/document/d/1nupr2QfrNpTFRgUxv6Fpv-285LR-R-zg9DZQ1tjOp3A/edit#
+
 По окончанию курсов повышения квалификации была выполнена итоговая аттестационная работа https://docs.google.com/document/d/15Mw9Hv8Tye74rFi8P5G459_UW96UJe-y9kbxPn84gME/edit
