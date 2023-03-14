@@ -5,7 +5,7 @@
 Готов выполнять тестовые задания.
 ***
 ### Резюме
-[Тестировщик ПО QA Engineer Федин Андрей](https://docs.google.com/document/d/1nupr2QfrNpTFRgUxv6Fpv-285LR-R-zg9DZQ1tjOp3A/edit#)
+[Андрей ФЕДИН, тестировщик ПО / QA Engineer](https://docs.google.com/document/d/1nupr2QfrNpTFRgUxv6Fpv-285LR-R-zg9DZQ1tjOp3A/edit#)
 ***
 По окончании курса повышения квалификации была выполнена итоговая аттестационная работа
 
